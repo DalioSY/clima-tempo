@@ -29,8 +29,8 @@ Com este projeto, pude aprimorar minhas habilidades em:
 
 > Github: https://github.com/DalioSY/clima-tempo
 
+#HTML #CSS #JavaScript #Github #React.js #Typescript #Node.js #Express #sequelize #postgresql #docker #FrontEnd #BackEnd #FullStack #Programador #Dev #Web #Desenvolvedor-Web #DesenvolvedorFrontEnd #DesenvolvedorFullStack #TransiçãoDeCarreira #jornadaproficional #aprendendo #api #realtime #fetch #tecnologia
 <img src="./assets/img/web-img.png"/>
 
-#HTML #CSS #JavaScript #Github #React.js #Typescript #Node.js #Express #sequelize #postgresql #docker #FrontEnd #BackEnd #FullStack #Programador #Dev #Web #Desenvolvedor-Web #DesenvolvedorFrontEnd #DesenvolvedorFullStack #TransiçãoDeCarreira #jornadaproficional #aprendendo #api #realtime #fetch #tecnologia
 
  
